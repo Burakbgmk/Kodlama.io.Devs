@@ -1,0 +1,12 @@
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\bin\Debug\net6.0\Infrastucture.deps.json
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\bin\Debug\net6.0\Infrastucture.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\bin\Debug\net6.0\Infrastucture.pdb
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\Infrastucture.csproj.AssemblyReference.cache
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\Infrastucture.AssemblyInfoInputs.cache
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\Infrastucture.AssemblyInfo.cs
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\Infrastucture.csproj.CoreCompileInputs.cache
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\Infrastucture.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\refint\Infrastucture.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\Infrastucture.pdb
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Infrastucture\obj\Debug\net6.0\ref\Infrastucture.dll

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Y3Rxc4MM7iOV3+jVfOEvO8SDOODZZGlU69vOPTPvCss0cuvLx6nGruRh2uQBr6wv+5Xm49+ffb3PWJ0WXs7WQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burak\\.nuget\\packages\\elasticsearch.net\\7.17.4\\elasticsearch.net.7.17.4.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\nest\\7.17.4\\nest.7.17.4.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\nest.jsonnetserializer\\7.17.4\\nest.jsonnetserializer.7.17.4.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

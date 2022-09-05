@@ -1,0 +1,12 @@
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.deps.json
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.pdb
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.AssemblyReference.cache
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfoInputs.cache
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfo.cs
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.CoreCompileInputs.cache
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\refint\Core.ElasticSearch.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll
