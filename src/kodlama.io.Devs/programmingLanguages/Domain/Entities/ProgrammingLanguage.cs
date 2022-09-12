@@ -9,6 +9,7 @@ namespace Domain.Entities
         public string ProgrammingParadigm { get; set; }
         public DateTime DebutTime { get; set; }
         public string CurrentVersion { get; set; }
+        public virtual ICollection<Technology> Technologies { get; set; }
 
         public ProgrammingLanguage()
         {

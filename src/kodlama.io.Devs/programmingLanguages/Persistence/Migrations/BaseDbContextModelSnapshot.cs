@@ -65,7 +65,7 @@ namespace Persistence.Migrations
                             Id = 1,
                             CurrentVersion = "9.0",
                             DebutTime = new DateTime(2000, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Description = "A very powerful language for backend developers",
+                            Description = "A very powerful language for backend and game development",
                             Name = "C#",
                             ProgrammingParadigm = "Object Oriented"
                         },
@@ -78,6 +78,80 @@ namespace Persistence.Migrations
                             Name = "Pyhton",
                             ProgrammingParadigm = "Object Oriented"
                         });
+                });
+
+            modelBuilder.Entity("Domain.Entities.Technology", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("Id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("CurrentVersion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("CurrentVersion");
+
+                    b.Property<DateTime>("DebutTime")
+                        .HasColumnType("datetime2")
+                        .HasColumnName("DebutTime");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Description");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Name");
+
+                    b.Property<int>("ProgrammingLanguageId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProgrammingLanguageId");
+
+                    b.ToTable("Technologies", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CurrentVersion = "7.0",
+                            DebutTime = new DateTime(2022, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Description = "A well designed C# framework for backend developers",
+                            Name = ".NET",
+                            ProgrammingLanguageId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CurrentVersion = "1.4.4",
+                            DebutTime = new DateTime(2008, 1, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Description = "Powerful data analysis framework",
+                            Name = "Pandas",
+                            ProgrammingLanguageId = 2
+                        });
+                });
+
+            modelBuilder.Entity("Domain.Entities.Technology", b =>
+                {
+                    b.HasOne("Domain.Entities.ProgrammingLanguage", "ProgrammingLanguage")
+                        .WithMany("Technologies")
+                        .HasForeignKey("ProgrammingLanguageId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ProgrammingLanguage");
+                });
+
+            modelBuilder.Entity("Domain.Entities.ProgrammingLanguage", b =>
+                {
+                    b.Navigation("Technologies");
                 });
 #pragma warning restore 612, 618
         }
