@@ -8,6 +8,7 @@ public class User : Entity
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public string Email { get; set; }
+    public string GithubAccount { get; set; }
     public byte[] PasswordSalt { get; set; }
     public byte[] PasswordHash { get; set; }
     public bool Status { get; set; }
@@ -22,12 +23,13 @@ public class User : Entity
         RefreshTokens = new HashSet<RefreshToken>();
     }
 
-    public User(int id, string firstName, string lastName, string email, byte[] passwordSalt, byte[] passwordHash,
+    public User(int id, string firstName, string lastName, string github, string email, byte[] passwordSalt, byte[] passwordHash,
                 bool status, AuthenticatorType authenticatorType) : this()
     {
         Id = id;
         FirstName = firstName;
         LastName = lastName;
+        GithubAccount = github;
         Email = email;
         PasswordSalt = passwordSalt;
         PasswordHash = passwordHash;

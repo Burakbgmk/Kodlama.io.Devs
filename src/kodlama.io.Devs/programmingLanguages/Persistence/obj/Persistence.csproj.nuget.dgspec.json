@@ -418,6 +418,9 @@
             "projectReferences": {
               "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
                 "projectPath": "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              },
+              "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }

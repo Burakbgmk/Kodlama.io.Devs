@@ -20,4 +20,15 @@
 		<PackageReference Include="MediatR" Version="10.0.1" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Features\Authentication\Command\" />
+	  <Folder Include="Features\Authentication\Dtos\" />
+	  <Folder Include="Features\Authentication\Models\" />
+	  <Folder Include="Features\Authentication\Profiles\" />
+	  <Folder Include="Features\Authentication\Rules\" />
+	  <Folder Include="Features\Users\Models\" />
+	  <Folder Include="Features\Users\Querries\" />
+	  <Folder Include="Features\Users\Rules\" />
+	</ItemGroup>
+
 </Project>

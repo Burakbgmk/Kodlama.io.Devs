@@ -418,6 +418,9 @@
             "projectReferences": {
               "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
                 "projectPath": "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              },
+              "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "D:\\Desktop\\Patika\\KodlamaioSeniorBootcamp\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
@@ -591,6 +594,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

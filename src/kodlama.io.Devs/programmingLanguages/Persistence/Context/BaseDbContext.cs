@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Core.Security.Entities;
+using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -9,6 +10,8 @@ namespace Persistence.Context
         protected IConfiguration Configuration { get; set; }
         public DbSet<ProgrammingLanguage> ProgrammingLanguages { get; set; }
         public DbSet<Technology> Technologies { get; set; }
+        public DbSet<AppUser> Users { get; set; }
+
         public BaseDbContext(DbContextOptions options, IConfiguration configuration) : base(options)
         {
             Configuration = configuration;

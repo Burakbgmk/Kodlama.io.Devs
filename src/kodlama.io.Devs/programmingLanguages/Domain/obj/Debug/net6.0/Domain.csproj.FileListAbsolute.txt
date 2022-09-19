@@ -15,3 +15,5 @@ D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\pr
 D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Domain\obj\Debug\net6.0\Domain.pdb
 D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
 D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Domain\bin\Debug\net6.0\Core.Security.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\Domain\bin\Debug\net6.0\Core.Security.pdb

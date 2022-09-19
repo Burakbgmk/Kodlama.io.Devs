@@ -88,3 +88,4 @@ D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\pr
 D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\WebApi\bin\Debug\net6.0\Persistence.dll
 D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\WebApi\bin\Debug\net6.0\Persistence.pdb
 D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Patika\KodlamaioSeniorBootcamp\Kodlama.io.Devs\src\kodlama.io.Devs\programmingLanguages\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
